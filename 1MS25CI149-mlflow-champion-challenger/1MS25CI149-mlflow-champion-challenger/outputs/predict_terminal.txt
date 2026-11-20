@@ -1,0 +1,17 @@
+Loading models:/1MS25CI149-sentiment-model@champion
+  -> version 1 | hf_model_id = distilbert-base-uncased-finetuned-sst-2-english | run = A_sentiment_distilbert-sst2
+
+/workspace/work/venv/lib/python3.12/site-packages/mlflow/pyfunc/utils/data_validation.py:187: UserWarning: [33mAdd type hints to the `predict` method to enable data validation and automatic signature inference during model logging. Check https://mlflow.org/docs/latest/model/python_model.html#type-hint-usage-in-pythonmodel for more details.[0m
+  color_warning(
+sample_id                                                         text prediction  score expected match
+  new_001 The canteen dosa was crispy and the chutney tasted fresh,...   POSITIVE 0.9995 POSITIVE   yes
+  new_002 The bus to campus was forty minutes late again and nobody...   NEGATIVE 0.9995 NEGATIVE   yes
+  new_003 I expected the lab exam to be terrible, but it turned out...   POSITIVE 0.9166 POSITIVE   yes
+  new_004 Oh great, the Wi-Fi went down right before the submission...   NEGATIVE 0.9989 NEGATIVE   yes
+  new_005 The new library reading room is quiet and has plenty of c...   POSITIVE 0.9834 POSITIVE   yes
+  new_006 The movie had stunning visuals, but the story was so bori...   NEGATIVE 0.9996 NEGATIVE   yes
+  new_007       Not bad at all for a first attempt at a mobile app....   POSITIVE 0.9023 POSITIVE   yes
+  new_008 The hostel food has not improved one bit since last semes...   NEGATIVE 0.9991 NEGATIVE   yes
+
+Correct on new data: 8 of 8
+Saved outputs/new_data_predictions.csv

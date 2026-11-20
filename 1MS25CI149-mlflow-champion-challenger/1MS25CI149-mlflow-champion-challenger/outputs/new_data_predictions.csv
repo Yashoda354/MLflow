@@ -1,0 +1,9 @@
+sample_id,text,prediction,score,expected,match,model_version,hf_model_id
+new_001,"The canteen dosa was crispy and the chutney tasted fresh, best breakfast I've had this week.",POSITIVE,0.9995,POSITIVE,yes,1,distilbert-base-uncased-finetuned-sst-2-english
+new_002,The bus to campus was forty minutes late again and nobody told us why.,NEGATIVE,0.9995,NEGATIVE,yes,1,distilbert-base-uncased-finetuned-sst-2-english
+new_003,"I expected the lab exam to be terrible, but it turned out to be surprisingly easy.",POSITIVE,0.9166,POSITIVE,yes,1,distilbert-base-uncased-finetuned-sst-2-english
+new_004,"Oh great, the Wi-Fi went down right before the submission deadline.",NEGATIVE,0.9989,NEGATIVE,yes,1,distilbert-base-uncased-finetuned-sst-2-english
+new_005,The new library reading room is quiet and has plenty of charging points.,POSITIVE,0.9834,POSITIVE,yes,1,distilbert-base-uncased-finetuned-sst-2-english
+new_006,"The movie had stunning visuals, but the story was so boring I nearly fell asleep.",NEGATIVE,0.9996,NEGATIVE,yes,1,distilbert-base-uncased-finetuned-sst-2-english
+new_007,Not bad at all for a first attempt at a mobile app.,POSITIVE,0.9023,POSITIVE,yes,1,distilbert-base-uncased-finetuned-sst-2-english
+new_008,The hostel food has not improved one bit since last semester.,NEGATIVE,0.9991,NEGATIVE,yes,1,distilbert-base-uncased-finetuned-sst-2-english

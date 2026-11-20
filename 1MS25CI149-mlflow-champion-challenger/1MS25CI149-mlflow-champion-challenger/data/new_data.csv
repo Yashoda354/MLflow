@@ -1,0 +1,9 @@
+sample_id,text,expected
+new_001,"The canteen dosa was crispy and the chutney tasted fresh, best breakfast I've had this week.",POSITIVE
+new_002,The bus to campus was forty minutes late again and nobody told us why.,NEGATIVE
+new_003,"I expected the lab exam to be terrible, but it turned out to be surprisingly easy.",POSITIVE
+new_004,"Oh great, the Wi-Fi went down right before the submission deadline.",NEGATIVE
+new_005,The new library reading room is quiet and has plenty of charging points.,POSITIVE
+new_006,"The movie had stunning visuals, but the story was so boring I nearly fell asleep.",NEGATIVE
+new_007,Not bad at all for a first attempt at a mobile app.,POSITIVE
+new_008,The hostel food has not improved one bit since last semester.,NEGATIVE

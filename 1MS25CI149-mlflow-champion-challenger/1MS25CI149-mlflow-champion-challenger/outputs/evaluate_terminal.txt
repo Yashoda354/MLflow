@@ -1,0 +1,51 @@
+/workspace/work/venv/lib/python3.12/site-packages/mlflow/pyfunc/utils/data_validation.py:187: UserWarning: [33mAdd type hints to the `predict` method to enable data validation and automatic signature inference during model logging. Check https://mlflow.org/docs/latest/model/python_model.html#type-hint-usage-in-pythonmodel for more details.[0m
+  color_warning(
+2026/11/20 17:45:11 INFO mlflow.tracking.fluent: Experiment with name '1MS25CI149-hf-sentiment-champion-challenger' does not exist. Creating a new experiment.
+2026/11/20 17:45:32 WARNING mlflow.pyfunc: Passing a Python object as `python_model` causes it to be serialized using CloudPickle, it requires exercising caution as Python object serialization mechanisms may execute arbitrary code during deserialization.Consider using a file path (str or Path) instead. See https://mlflow.org/docs/latest/ml/model/models-from-code/ for details.
+/workspace/work/venv/lib/python3.12/site-packages/mlflow/pyfunc/__init__.py:3364: UserWarning: [1;33mAn input example was not provided when logging the model. To ensure the model signature functions correctly, specify the `input_example` parameter. See https://mlflow.org/docs/latest/model/signatures.html#model-input-example for more details about the benefits of using input_example.[0m
+  color_warning(
+Evaluation set: 200 SST-2 validation sentences (100 negative / 100 positive) -> data/eval_inputs.csv
+
+=== A_sentiment_distilbert-sst2  (distilbert-base-uncased-finetuned-sst-2-english) ===
+  accuracy           91.0000
+  macro_f1           91.0000
+  precision_pos      91.0000
+  recall_pos         91.0000
+  recall_neg         91.0000
+  avg_latency_ms     53.8135
+  total_inference_s  10.7627
+
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026/11/20 17:45:57 WARNING mlflow.pyfunc: Passing a Python object as `python_model` causes it to be serialized using CloudPickle, it requires exercising caution as Python object serialization mechanisms may execute arbitrary code during deserialization.Consider using a file path (str or Path) instead. See https://mlflow.org/docs/latest/ml/model/models-from-code/ for details.
+/workspace/work/venv/lib/python3.12/site-packages/mlflow/pyfunc/__init__.py:3364: UserWarning: [1;33mAn input example was not provided when logging the model. To ensure the model signature functions correctly, specify the `input_example` parameter. See https://mlflow.org/docs/latest/model/signatures.html#model-input-example for more details about the benefits of using input_example.[0m
+  color_warning(
+  logged model: models:/m-aa7f96cd7dc54d87ac71dbee812dab47
+🏃 View run A_sentiment_distilbert-sst2 at: http://127.0.0.1:5000/#/experiments/1/runs/5c9f45ef2a544751b8806653f0845c61
+🧪 View experiment at: http://127.0.0.1:5000/#/experiments/1
+
+=== B_sentiment_bert-base-sst2  (textattack/bert-base-uncased-SST-2) ===
+  accuracy           90.5000
+  macro_f1           90.4998
+  precision_pos      90.9091
+  recall_pos         90.0000
+  recall_neg         91.0000
+  avg_latency_ms     85.1039
+  total_inference_s  17.0208
+
+  logged model: models:/m-5e72df91d8924db7b6642ef52df9d4b7
+🏃 View run B_sentiment_bert-base-sst2 at: http://127.0.0.1:5000/#/experiments/1/runs/47c370b431094d48ada45e11b5af645e
+🧪 View experiment at: http://127.0.0.1:5000/#/experiments/1
+🏃 View run compare_sentiment at: http://127.0.0.1:5000/#/experiments/1/runs/70e3bd14af5846b9aa5ee50b6d6b29a2
+🧪 View experiment at: http://127.0.0.1:5000/#/experiments/1
+
+=== Champion-Challenger decision ===
+                   A_distilbert-sst2  B_bert-base-sst2  B_minus_A
+accuracy                     91.0000           90.5000    -0.5000
+macro_f1                     91.0000           90.4998    -0.5002
+precision_pos                91.0000           90.9091    -0.0909
+recall_pos                   91.0000           90.0000    -1.0000
+recall_neg                   91.0000           91.0000     0.0000
+avg_latency_ms               53.8135           85.1039    31.2904
+total_inference_s            10.7627           17.0208     6.2581
+Winner: A (distilbert-base-uncased-finetuned-sst-2-english) -> |delta macro-F1| 0.50 < 2.0, faster model kept
+Sentences where A and B disagree: 11 of 200

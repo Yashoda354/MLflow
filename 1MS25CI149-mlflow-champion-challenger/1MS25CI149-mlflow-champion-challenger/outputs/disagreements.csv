@@ -1,0 +1,12 @@
+sample_id,text,reference,pred_A,score_A,pred_B,score_B
+s_018,"this is wild surreal stuff , but brilliant and the camera just kind of sits there and lets you look at this and its like you 're going from one room to the next and none of them have any relation to the other .",POSITIVE,NEGATIVE,0.7187,POSITIVE,0.9926
+s_022,falls neatly into the category of good stupid fun .,POSITIVE,POSITIVE,0.9979,NEGATIVE,0.9158
+s_032,a working class `` us vs. them '' opera that leaves no heartstring untugged and no liberal cause unplundered .,POSITIVE,NEGATIVE,0.9725,POSITIVE,0.8241
+s_043,"jason x is positively anti-darwinian : nine sequels and 400 years later , the teens are none the wiser and jason still kills on auto-pilot .",NEGATIVE,POSITIVE,0.9716,NEGATIVE,0.9024
+s_064,"it 's hard to like a film about a guy who is utterly unlikeable , and shiner , starring michael caine as an aging british boxing promoter desperate for a taste of fame and fortune , is certainly that .",NEGATIVE,POSITIVE,0.9963,NEGATIVE,0.7655
+s_066,hilariously inept and ridiculous .,POSITIVE,POSITIVE,0.9824,NEGATIVE,0.997
+s_080,not since tom cruise in risky business has an actor made such a strong impression in his underwear .,POSITIVE,POSITIVE,0.8139,NEGATIVE,0.709
+s_103,"the movie , directed by mick jackson , leaves no cliche unturned , from the predictable plot to the characters straight out of central casting .",NEGATIVE,NEGATIVE,0.995,POSITIVE,0.91
+s_125,turns potentially forgettable formula into something strangely diverting .,POSITIVE,NEGATIVE,0.9925,POSITIVE,0.9882
+s_183,"the jabs it employs are short , carefully placed and dead-center .",POSITIVE,POSITIVE,0.5921,NEGATIVE,0.9022
+s_197,it has all the excitement of eating oatmeal .,NEGATIVE,NEGATIVE,0.5354,POSITIVE,0.8291

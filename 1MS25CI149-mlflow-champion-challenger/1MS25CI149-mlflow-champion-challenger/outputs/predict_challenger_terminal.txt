@@ -1,0 +1,17 @@
+Loading models:/1MS25CI149-sentiment-model@challenger
+  -> version 2 | hf_model_id = textattack/bert-base-uncased-SST-2 | run = B_sentiment_bert-base-sst2
+
+/workspace/work/venv/lib/python3.12/site-packages/mlflow/pyfunc/utils/data_validation.py:187: UserWarning: [33mAdd type hints to the `predict` method to enable data validation and automatic signature inference during model logging. Check https://mlflow.org/docs/latest/model/python_model.html#type-hint-usage-in-pythonmodel for more details.[0m
+  color_warning(
+sample_id                                                         text prediction  score expected match
+  new_001 The canteen dosa was crispy and the chutney tasted fresh,...   POSITIVE 0.9989 POSITIVE   yes
+  new_002 The bus to campus was forty minutes late again and nobody...   NEGATIVE 0.9939 NEGATIVE   yes
+  new_003 I expected the lab exam to be terrible, but it turned out...   POSITIVE 0.9421 POSITIVE   yes
+  new_004 Oh great, the Wi-Fi went down right before the submission...   NEGATIVE 0.9965 NEGATIVE   yes
+  new_005 The new library reading room is quiet and has plenty of c...   NEGATIVE 0.5662 POSITIVE    NO
+  new_006 The movie had stunning visuals, but the story was so bori...   NEGATIVE 0.9983 NEGATIVE   yes
+  new_007       Not bad at all for a first attempt at a mobile app....   POSITIVE 0.8625 POSITIVE   yes
+  new_008 The hostel food has not improved one bit since last semes...   NEGATIVE 0.9947 NEGATIVE   yes
+
+Correct on new data: 7 of 8
+Saved outputs/new_data_predictions_challenger.csv

@@ -1,0 +1,201 @@
+sample_id,sst2_idx,text,label_id,reference
+s_001,54,so devoid of any kind of intelligible story that it makes films like xxx and collateral damage seem like thoughtful treatises,0,NEGATIVE
+s_002,229,this movie seems to have been written using mad-libs .,0,NEGATIVE
+s_003,763,"there 's something auspicious , and daring , too , about the artistic instinct that pushes a majority-oriented director like steven spielberg to follow a.i. with this challenging report so liable to unnerve the majority .",1,POSITIVE
+s_004,601,fancy a real downer ?,0,NEGATIVE
+s_005,642,"this re-do is so dumb and so exploitative in its violence that , ironically , it becomes everything that the rather clumsy original was railing against .",0,NEGATIVE
+s_006,258,`` the time machine '' is a movie that has no interest in itself .,0,NEGATIVE
+s_007,20,"pumpkin takes an admirable look at the hypocrisy of political correctness , but it does so with such an uneven tone that you never know when humor ends and tragedy begins .",0,NEGATIVE
+s_008,541,the most compelling wiseman epic of recent years .,1,POSITIVE
+s_009,467,"ramsay , as in ratcatcher , remains a filmmaker with an acid viewpoint and a real gift for teasing chilly poetry out of lives and settings that might otherwise seem drab and sordid .",1,POSITIVE
+s_010,564,the plot convolutions ultimately add up to nothing more than jerking the audience 's chain .,0,NEGATIVE
+s_011,183,"the lower your expectations , the more you 'll enjoy it .",0,NEGATIVE
+s_012,156,"manages to transcend the sex , drugs and show-tunes plot into something far richer .",1,POSITIVE
+s_013,681,( a ) shapeless blob of desperate entertainment .,0,NEGATIVE
+s_014,2,allows us to hope that nolan is poised to embark a major career as a commercial yet inventive filmmaker .,1,POSITIVE
+s_015,786,the film makes a fatal mistake : it asks us to care about a young man whose only apparent virtue is that he is not quite as unpleasant as some of the people in his life .,0,NEGATIVE
+s_016,374,"the movie is what happens when you blow up small potatoes to 10 times their natural size , and it ai n't pretty .",0,NEGATIVE
+s_017,665,"and if you 're not nearly moved to tears by a couple of scenes , you 've got ice water in your veins .",1,POSITIVE
+s_018,440,"this is wild surreal stuff , but brilliant and the camera just kind of sits there and lets you look at this and its like you 're going from one room to the next and none of them have any relation to the other .",1,POSITIVE
+s_019,869,a subject like this should inspire reaction in its audience ; the pianist does not .,0,NEGATIVE
+s_020,516,plays like a volatile and overlong w magazine fashion spread .,0,NEGATIVE
+s_021,82,it 's one pussy-ass world when even killer-thrillers revolve around group therapy sessions .,0,NEGATIVE
+s_022,205,falls neatly into the category of good stupid fun .,1,POSITIVE
+s_023,30,"thanks to scott 's charismatic roger and eisenberg 's sweet nephew , roger dodger is one of the most compelling variations on in the company of men .",1,POSITIVE
+s_024,625,for the most part stevens glides through on some solid performances and witty dialogue .,1,POSITIVE
+s_025,237,a by-the-numbers effort that wo n't do much to enhance the franchise .,0,NEGATIVE
+s_026,314,it is great summer fun to watch arnold and his buddy gerald bounce off a quirky cast of characters .,1,POSITIVE
+s_027,648,"further proof that the epicenter of cool , beautiful , thought-provoking foreign cinema is smack-dab in the middle of dubya 's axis of evil .",1,POSITIVE
+s_028,705,"every time you look , sweet home alabama is taking another bummer of a wrong turn .",0,NEGATIVE
+s_029,607,ahhhh ... revenge is sweet !,1,POSITIVE
+s_030,559,"if the first men in black was money , the second is small change .",0,NEGATIVE
+s_031,772,"not the kind of film that will appeal to a mainstream american audience , but there is a certain charm about the film that makes it a suitable entry into the fest circuit .",1,POSITIVE
+s_032,749,a working class `` us vs. them '' opera that leaves no heartstring untugged and no liberal cause unplundered .,1,POSITIVE
+s_033,152,"a difficult , absorbing film that manages to convey more substance despite its repetitions and inconsistencies than do most films than are far more pointed and clear .",1,POSITIVE
+s_034,221,my reaction in a word : disappointment .,0,NEGATIVE
+s_035,198,"this is a winning ensemble comedy that shows canadians can put gentle laughs and equally gentle sentiments on the button , just as easily as their counterparts anywhere else in the world .",1,POSITIVE
+s_036,146,"about a manga-like heroine who fights back at her abusers , it 's energetic and satisfying if not deep and psychological .",1,POSITIVE
+s_037,499,"unlike the speedy wham-bam effect of most hollywood offerings , character development -- and more importantly , character empathy -- is at the heart of italian for beginners .",1,POSITIVE
+s_038,317,"all-in-all , the film is an enjoyable and frankly told tale of a people who live among us , but not necessarily with us .",1,POSITIVE
+s_039,285,k-19 exploits our substantial collective fear of nuclear holocaust to generate cheap hollywood tension .,0,NEGATIVE
+s_040,500,a sequel that 's much too big for its britches .,0,NEGATIVE
+s_041,412,the movie 's accumulated force still feels like an ugly knot tightening in your stomach .,0,NEGATIVE
+s_042,844,"given how heavy-handed and portent-heavy it is , this could be the worst thing soderbergh has ever done .",0,NEGATIVE
+s_043,356,"jason x is positively anti-darwinian : nine sequels and 400 years later , the teens are none the wiser and jason still kills on auto-pilot .",0,NEGATIVE
+s_044,366,"altogether , this is successful as a film , while at the same time being a most touching reconsideration of the familiar masterpiece .",1,POSITIVE
+s_045,318,hit and miss as far as the comedy goes and a big ole ' miss in the way of story .,0,NEGATIVE
+s_046,491,"as a rumor of angels reveals itself to be a sudsy tub of supernatural hokum , not even ms. redgrave 's noblest efforts can redeem it from hopeless sentimentality .",0,NEGATIVE
+s_047,660,"like mike is a winner for kids , and no doubt a winner for lil bow wow , who can now add movies to the list of things he does well .",1,POSITIVE
+s_048,423,i am sorry that i was unable to get the full brunt of the comedy .,0,NEGATIVE
+s_049,737,my big fat greek wedding uses stereotypes in a delightful blend of sweet romance and lovingly dished out humor .,1,POSITIVE
+s_050,536,"a disappointment for those who love alternate versions of the bard , particularly ones that involve deep fryers and hamburgers .",0,NEGATIVE
+s_051,1,unflinchingly bleak and desperate,0,NEGATIVE
+s_052,38,"as surreal as a dream and as detailed as a photograph , as visually dexterous as it is at times imaginatively overwhelming .",1,POSITIVE
+s_053,29,i had to look away - this was god awful .,0,NEGATIVE
+s_054,230,reign of fire looks as if it was made without much thought -- and is best watched that way .,1,POSITIVE
+s_055,250,one of the more intelligent children 's movies to hit theaters this year .,1,POSITIVE
+s_056,133,"the tale of tok ( andy lau ) , a sleek sociopath on the trail of o ( takashi sorimachi ) , the most legendary of asian hitmen , is too scattershot to take hold .",0,NEGATIVE
+s_057,639,indifferently implausible popcorn programmer of a movie .,0,NEGATIVE
+s_058,131,"in execution , this clever idea is far less funny than the original , killers from space .",0,NEGATIVE
+s_059,311,"a warm , funny , engaging film .",1,POSITIVE
+s_060,385,"while the resident evil games may have set new standards for thrills , suspense , and gore for video games , the movie really only succeeds in the third of these .",0,NEGATIVE
+s_061,847,"... mafia , rap stars and hood rats butt their ugly heads in a regurgitation of cinematic violence that gives brutal birth to an unlikely , but likable , hero . '",1,POSITIVE
+s_062,50,"it feels like an after-school special gussied up with some fancy special effects , and watching its rote plot points connect is about as exciting as gazing at an egg timer for 93 minutes .",0,NEGATIVE
+s_063,305,what was once original has been co-opted so frequently that it now seems pedestrian .,0,NEGATIVE
+s_064,274,"it 's hard to like a film about a guy who is utterly unlikeable , and shiner , starring michael caine as an aging british boxing promoter desperate for a taste of fame and fortune , is certainly that .",0,NEGATIVE
+s_065,53,sade is an engaging look at the controversial eponymous and fiercely atheistic hero .,1,POSITIVE
+s_066,112,hilariously inept and ridiculous .,1,POSITIVE
+s_067,352,"a swashbuckling tale of love , betrayal , revenge and above all , faith .",1,POSITIVE
+s_068,297,travels a fascinating arc from hope and euphoria to reality and disillusionment .,1,POSITIVE
+s_069,832,manages to show life in all of its banality when the intention is quite the opposite .,0,NEGATIVE
+s_070,656,"so much facile technique , such cute ideas , so little movie .",1,POSITIVE
+s_071,219,"what the film lacks in general focus it makes up for in compassion , as corcuera manages to find the seeds of hope in the form of collective action .",1,POSITIVE
+s_072,680,"the vitality of the actors keeps the intensity of the film high , even as the strafings blend together .",1,POSITIVE
+s_073,160,"uncommonly stylish but equally silly ... the picture fails to generate much suspense , nor does it ask searching enough questions to justify its pretensions .",0,NEGATIVE
+s_074,623,"it is amusing , and that 's all it needs to be .",1,POSITIVE
+s_075,833,"ultimately feels empty and unsatisfying , like swallowing a communion wafer without the wine .",0,NEGATIVE
+s_076,458,"featuring a dangerously seductive performance from the great daniel auteuil , `` sade '' covers the same period as kaufmann 's `` quills '' with more unsettlingly realistic results .",1,POSITIVE
+s_077,621,"kinnear does n't aim for our sympathy , but rather delivers a performance of striking skill and depth .",1,POSITIVE
+s_078,654,a science-fiction pastiche so lacking in originality that if you stripped away its inspirations there would be precious little left .,0,NEGATIVE
+s_079,328,an unwise amalgam of broadcast news and vibes .,0,NEGATIVE
+s_080,697,not since tom cruise in risky business has an actor made such a strong impression in his underwear .,1,POSITIVE
+s_081,746,people cinema at its finest .,1,POSITIVE
+s_082,223,"corny , schmaltzy and predictable , but still manages to be kind of heartwarming , nonetheless .",1,POSITIVE
+s_083,751,one long string of cliches .,0,NEGATIVE
+s_084,727,"velocity represents everything wrong with '' independent film '' as a commodified , sold-out concept on the american filmmaking scene .",0,NEGATIVE
+s_085,792,it 's fun lite .,1,POSITIVE
+s_086,850,"miller is playing so free with emotions , and the fact that children are hostages to fortune , that he makes the audience hostage to his swaggering affectation of seriousness .",1,POSITIVE
+s_087,236,not since japanese filmmaker akira kurosawa 's ran have the savagery of combat and the specter of death been visualized with such operatic grandeur .,1,POSITIVE
+s_088,741,but it still jingles in the pocket .,1,POSITIVE
+s_089,773,it 's a beautiful madness .,1,POSITIVE
+s_090,149,"the volatile dynamics of female friendship is the subject of this unhurried , low-key film that is so off-hollywood that it seems positively french in its rhythms and resonance .",1,POSITIVE
+s_091,486,the script is n't very good ; not even someone as gifted as hoffman ( the actor ) can make it work .,0,NEGATIVE
+s_092,855,it 's fascinating to see how bettany and mcdowell play off each other .,1,POSITIVE
+s_093,271,as unseemly as its title suggests .,1,POSITIVE
+s_094,193,"morton uses her face and her body language to bring us morvern 's soul , even though the character is almost completely deadpan .",1,POSITIVE
+s_095,210,"not only is undercover brother as funny , if not more so , than both austin powers films , but it 's also one of the smarter , savvier spoofs to come along in some time .",1,POSITIVE
+s_096,748,"and when you 're talking about a slapstick comedy , that 's a pretty big problem .",0,NEGATIVE
+s_097,415,"an operatic , sprawling picture that 's entertainingly acted , magnificently shot and gripping enough to sustain most of its 170-minute length .",1,POSITIVE
+s_098,287,"it 's a much more emotional journey than what shyamalan has given us in his past two movies , and gibson , stepping in for bruce willis , is the perfect actor to take us on the trip .",1,POSITIVE
+s_099,783,the movie does a good job of laying out some of the major issues that we encounter as we journey through life .,1,POSITIVE
+s_100,632,just embarrassment and a vague sense of shame .,0,NEGATIVE
+s_101,157,it takes talent to make a lifeless movie about the most heinous man who ever lived .,0,NEGATIVE
+s_102,460,"if you are an actor who can relate to the search for inner peace by dramatically depicting the lives of others onstage , then esther 's story is a compelling quest for truth .",1,POSITIVE
+s_103,827,"the movie , directed by mick jackson , leaves no cliche unturned , from the predictable plot to the characters straight out of central casting .",0,NEGATIVE
+s_104,506,"crackerjack entertainment -- nonstop romance , music , suspense and action .",1,POSITIVE
+s_105,309,the second coming of harry potter is a film far superior to its predecessor .,1,POSITIVE
+s_106,568,"it does nothing new with the old story , except to show fisticuffs in this sort of stop-go slow motion that makes the gang rumbles look like they 're being streamed over a 28k modem .",0,NEGATIVE
+s_107,842,"a better title , for all concerned , might be swept under the rug .",0,NEGATIVE
+s_108,134,it all drags on so interminably it 's like watching a miserable relationship unfold in real time .,0,NEGATIVE
+s_109,649,the film 's few ideas are stretched to the point of evaporation ; the whole central section is one big chase that seems to have no goal and no urgency .,0,NEGATIVE
+s_110,533,"`` mostly martha '' is a bright , light modern day family parable that wears its heart on its sleeve for all to see .",1,POSITIVE
+s_111,670,verbinski implements every hack-artist trick to give us the ooky-spookies .,0,NEGATIVE
+s_112,698,"an interesting story with a pertinent ( cinematically unique ) message , told fairly well and scored to perfection , i found myself struggling to put my finger on that elusive `` missing thing . ''",1,POSITIVE
+s_113,247,"stealing harvard is evidence that the farrelly bros. -- peter and bobby -- and their brand of screen comedy are wheezing to an end , along with green 's half-hearted movie career .",0,NEGATIVE
+s_114,761,"the result is a gaudy bag of stale candy , something from a halloween that died .",0,NEGATIVE
+s_115,190,"try as i may , i ca n't think of a single good reason to see this movie , even though everyone in my group extemporaneously shouted , ` thank you ! '",0,NEGATIVE
+s_116,225,"far more imaginative and ambitious than the trivial , cash-in features nickelodeon has made from its other animated tv series .",1,POSITIVE
+s_117,451,"not only are the special effects and narrative flow much improved , and daniel radcliffe more emotionally assertive this time around as harry , but the film conjures the magic of author j.k. rowling 's books .",1,POSITIVE
+s_118,333,"a pleasant enough romance with intellectual underpinnings , the kind of movie that entertains even as it turns maddeningly predictable .",1,POSITIVE
+s_119,537,"a simple , but gritty and well-acted ensemble drama that encompasses a potent metaphor for a country still dealing with its fascist past .",1,POSITIVE
+s_120,582,"despite all evidence to the contrary , this clunker has somehow managed to pose as an actual feature movie , the kind that charges full admission and gets hyped on tv and purports to amuse small children and ostensible adults .",0,NEGATIVE
+s_121,523,a romantic comedy enriched by a sharp eye for manners and mores .,1,POSITIVE
+s_122,296,its well of thorn and vinegar ( and simple humanity ) has long been plundered by similar works featuring the insight and punch this picture so conspicuously lacks .,0,NEGATIVE
+s_123,121,it seems to me the film is about the art of ripping people off without ever letting them consciously know you have done so,0,NEGATIVE
+s_124,115,sam mendes has become valedictorian at the school for soft landings and easy ways out .,0,NEGATIVE
+s_125,123,turns potentially forgettable formula into something strangely diverting .,1,POSITIVE
+s_126,718,"this is human comedy at its most amusing , interesting and confirming .",1,POSITIVE
+s_127,348,just one bad idea after another .,0,NEGATIVE
+s_128,510,"the vivid lead performances sustain interest and empathy , but the journey is far more interesting than the final destination .",1,POSITIVE
+s_129,593,the terrific and bewilderingly underrated campbell scott gives a star performance that is nothing short of mesmerizing .,1,POSITIVE
+s_130,155,a nightmare date with a half-formed wit done a great disservice by a lack of critical distance and a sad trust in liberal arts college bumper sticker platitudes .,0,NEGATIVE
+s_131,845,"despite the evocative aesthetics evincing the hollow state of modern love life , the film never percolates beyond a monotonous whine .",0,NEGATIVE
+s_132,622,few films capture so perfectly the hopes and dreams of little boys on baseball fields as well as the grown men who sit in the stands .,1,POSITIVE
+s_133,578,just not campy enough,0,NEGATIVE
+s_134,59,"it 's just disappointingly superficial -- a movie that has all the elements necessary to be a fascinating , involving character study , but never does more than scratch the surface .",0,NEGATIVE
+s_135,98,"on the whole , the movie lacks wit , feeling and believability to compensate for its incessant coarseness and banality .",0,NEGATIVE
+s_136,268,a dumb movie with dumb characters doing dumb things and you have to be really dumb not to see where this is going .,0,NEGATIVE
+s_137,148,feels too formulaic and too familiar to produce the transgressive thrills of early underground work .,0,NEGATIVE
+s_138,556,but it 's too long and too convoluted and it ends in a muddle .,0,NEGATIVE
+s_139,813,i can take infantile humor ... but this is the sort of infantile that makes you wonder about changing the director and writer 's diapers .,0,NEGATIVE
+s_140,468,the characters are interesting and often very creatively constructed from figure to backstory .,1,POSITIVE
+s_141,0,it 's a charming and often affecting journey .,1,POSITIVE
+s_142,428,"beautifully observed , miraculously unsentimental comedy-drama .",1,POSITIVE
+s_143,104,"it 's one of those baseball pictures where the hero is stoic , the wife is patient , the kids are as cute as all get-out and the odds against success are long enough to intimidate , but short enough to make a dream seem possible .",1,POSITIVE
+s_144,615,"as the latest bid in the tv-to-movie franchise game , i spy makes its big-screen entry with little of the nervy originality of its groundbreaking small-screen progenitor .",0,NEGATIVE
+s_145,834,collateral damage finally delivers the goods for schwarzenegger fans .,1,POSITIVE
+s_146,476,involves two mysteries -- one it gives away and the other featuring such badly drawn characters that its outcome hardly matters .,0,NEGATIVE
+s_147,673,"drops you into a dizzying , volatile , pressure-cooker of a situation that quickly snowballs out of control , while focusing on the what much more than the why .",1,POSITIVE
+s_148,826,a quiet treasure -- a film to be savored .,1,POSITIVE
+s_149,710,"less dizzying than just dizzy , the jaunt is practically over before it begins .",0,NEGATIVE
+s_150,290,"deliriously funny , fast and loose , accessible to the uninitiated , and full of surprises",1,POSITIVE
+s_151,452,"it 's clear the filmmakers were n't sure where they wanted their story to go , and even more clear that they lack the skills to get us to this undetermined destination .",0,NEGATIVE
+s_152,480,"while undisputed is n't exactly a high , it is a gripping , tidy little movie that takes mr. hill higher than he 's been in a while .",1,POSITIVE
+s_153,23,"a delectable and intriguing thriller filled with surprises , read my lips is an original .",1,POSITIVE
+s_154,192,"a celebration of quirkiness , eccentricity , and certain individuals ' tendency to let it all hang out , and damn the consequences .",1,POSITIVE
+s_155,864,"dull , lifeless , and amateurishly assembled .",0,NEGATIVE
+s_156,851,"impostor has a handful of thrilling moments and a couple of good performances , but the movie does n't quite fly .",0,NEGATIVE
+s_157,316,"awesome creatures , breathtaking scenery , and epic battle scenes add up to another ` spectacular spectacle . '",1,POSITIVE
+s_158,116,one of the smartest takes on singles culture i 've seen in a long time .,1,POSITIVE
+s_159,248,"a full world has been presented onscreen , not some series of carefully structured plot points building to a pat resolution .",1,POSITIVE
+s_160,781,at once half-baked and overheated .,0,NEGATIVE
+s_161,83,"though it 's become almost redundant to say so , major kudos go to leigh for actually casting people who look working-class .",1,POSITIVE
+s_162,840,"what is 100 % missing here is a script of even the most elemental literacy , an inkling of genuine wit , and anything resembling acting .",0,NEGATIVE
+s_163,187,` de niro ... is a veritable source of sincere passion that this hollywood contrivance orbits around . ',1,POSITIVE
+s_164,512,villeneuve spends too much time wallowing in bibi 's generic angst ( there are a lot of shots of her gazing out windows ) .,0,NEGATIVE
+s_165,534,i just loved every minute of this film .,1,POSITIVE
+s_166,544,"although huppert 's intensity and focus has a raw exhilaration about it , the piano teacher is anything but fun .",0,NEGATIVE
+s_167,495,light years / several warp speeds / levels and levels of dilithium crystals better than the pitiful insurrection .,1,POSITIVE
+s_168,147,the talented and clever robert rodriguez perhaps put a little too much heart into his first film and did n't reserve enough for his second .,0,NEGATIVE
+s_169,277,"it just may inspire a few younger moviegoers to read stevenson 's book , which is a treasure in and of itself .",1,POSITIVE
+s_170,171,rarely has leukemia looked so shimmering and benign .,0,NEGATIVE
+s_171,263,"chilling , well-acted , and finely directed : david jacobson 's dahmer .",1,POSITIVE
+s_172,493,this is so bad .,0,NEGATIVE
+s_173,339,if you enjoy more thoughtful comedies with interesting conflicted characters ; this one is for you .,1,POSITIVE
+s_174,611,the performances take the movie to a higher level .,1,POSITIVE
+s_175,180,"unfortunately , it 's not silly fun unless you enjoy really bad movies .",0,NEGATIVE
+s_176,481,funny but perilously slight .,1,POSITIVE
+s_177,576,"offers very little genuine romance and even fewer laughs ... a sad sitcom of a movie , largely devoid of charm .",0,NEGATIVE
+s_178,66,"if you 're hard up for raunchy college humor , this is your ticket right here .",1,POSITIVE
+s_179,378,"feels haphazard , as if the writers mistakenly thought they could achieve an air of frantic spontaneity by simply tossing in lots of characters doing silly stuff and stirring the pot .",0,NEGATIVE
+s_180,346,"not only unfunny , but downright repellent .",0,NEGATIVE
+s_181,151,"a big , gorgeous , sprawling swashbuckler that delivers its diversions in grand , uncomplicated fashion .",1,POSITIVE
+s_182,843,a wildly inconsistent emotional experience .,0,NEGATIVE
+s_183,643,"the jabs it employs are short , carefully placed and dead-center .",1,POSITIVE
+s_184,325,"liotta put on 30 pounds for the role , and has completely transformed himself from his smooth , goodfellas image .",1,POSITIVE
+s_185,735,the experience of going to a film festival is a rewarding one ; the experiencing of sampling one through this movie is not .,0,NEGATIVE
+s_186,508,"a poignant and compelling story about relationships , food of love takes us on a bumpy but satisfying journey of the heart .",1,POSITIVE
+s_187,174,if you dig on david mamet 's mind tricks ... rent this movie and enjoy !,1,POSITIVE
+s_188,518,michael gerbosi 's script is economically packed with telling scenes .,1,POSITIVE
+s_189,55,"a tender , heartfelt family drama .",1,POSITIVE
+s_190,291,"even with a green mohawk and a sheet of fire-red flame tattoos covering his shoulder , however , kilmer seems to be posing , rather than acting .",0,NEGATIVE
+s_191,214,"perceptive in its vision of nascent industrialized world politics as a new art form , but far too clunky , didactic and saddled with scenes that seem simply an ill fit for this movie .",0,NEGATIVE
+s_192,581,"it can not be enjoyed , even on the level that one enjoys a bad slasher flick , primarily because it is dull .",0,NEGATIVE
+s_193,4,"it 's slow -- very , very slow .",0,NEGATIVE
+s_194,364,"instead of hiding pinocchio from critics , miramax should have hidden it from everyone .",0,NEGATIVE
+s_195,211,to say this was done better in wilder 's some like it hot is like saying the sun rises in the east .,0,NEGATIVE
+s_196,127,"in the end , we are left with something like two ships passing in the night rather than any insights into gay love , chinese society or the price one pays for being dishonest .",0,NEGATIVE
+s_197,527,it has all the excitement of eating oatmeal .,0,NEGATIVE
+s_198,554,it treats women like idiots .,0,NEGATIVE
+s_199,712,they should have called it gutterball .,0,NEGATIVE
+s_200,322,that 's pure pr hype .,0,NEGATIVE
